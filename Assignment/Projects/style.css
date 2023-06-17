@@ -1,0 +1,30 @@
+.intro-text{
+    font-weight: 400;
+    position: absolute;
+    top: 15%;
+    left: 38%;
+}
+.image{
+    height: 100vh;
+    background-image: url("aman1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.blackBox{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size :80px
+    font-weight: 400;
+}
+
+.contactMe{
+    background-color: green;
+    text-align: center;
+}
+.aboutMe{
+    background-color: red;
+    text-align: center;
+    margin-top: 10px;
+}
